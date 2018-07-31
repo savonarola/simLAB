@@ -1,0 +1,5 @@
+plac
+pyusb
+zerorpc
+lxml
+pyscard
